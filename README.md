@@ -6,7 +6,8 @@ Click on images for further demo videos.
 
 ## Overview
 
-This project focuses on building a mini self-driving car from scratch using Deep Q-Learning (DQN). The AI agent will learn to navigate an environment containing a map, a car, and various features using DQN, a powerful deep reinforcement learning algorithm. By training the AI agent with experience replay and different action selection policies, the mini self-driving car will demonstrate its ability to make informed decisions and drive autonomously.
+A course project developed for the Udemy course "Artificial Intelligence A-Z™ 2023: Build an AI with ChatGPT4
+." This project focuses on building a mini self-driving car from scratch using Deep Q-Learning (DQN). The AI agent will learn to navigate an environment containing a map, a car, and various features using DQN, a powerful deep reinforcement learning algorithm. By training the AI agent with experience replay and different action selection policies, the mini self-driving car will demonstrate its ability to make informed decisions and drive autonomously.
 
 ## Project Plan
 
